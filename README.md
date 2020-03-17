@@ -1,3 +1,3 @@
-# My VIM config file
-
-Requires [vbundle](http://github.com/VundleVim/Vundle.Vim). 
+vimrc files for
+* vim
+* nvim
